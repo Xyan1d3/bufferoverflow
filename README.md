@@ -16,7 +16,7 @@ Payload : windows/shell_reverse_tcp
 
 ### Buff (10.10.10.198)
 #### https://www.hackthebox.eu/home/machines/profile/263
-Exploit Link : https://www.exploit-db.com/exploits/48389
+Exploit Link : https://www.exploit-db.com/exploits/48389 
 This exploit is modified by me, not written by me.
 ```
 Win32 Stack Based BufferOverflow Win32
